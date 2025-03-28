@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi there, I'm Joakim Helgodt</h1>
 
 <p align="center">
-  <img src="Joakim-Code-Caster.png" alt="Joakim Code Caster" width="200"/>
+  <img src="Joakim-Code-Caster.png" alt="Joakim Code Caster" width="300"/>
 </p>
 
 <p align="center">
-  🧑‍💻 Fullstack Developer | 🚀 Tech Enthusiast | 🎯 Former SaaS Sales Director turned Coder
+  🧑‍💻 Fullstack Developer | 🚀 Tech Enthusiast | 🎯 Former SaaS Sales Executive turned Coder
 </p>
 
 ---
@@ -15,10 +15,9 @@
 - Magic the Gathering Deck Builder
 
 ### 🧰 Tech Stack
-Frontend: Angular · React · TypeScript · HTML · SCSS  
-Backend: PHP · Laravel · MySQL  
+Frontend: Angular · React · TypeScript
+Backend: PHP · Laravel · MySQL · Node JS · MongoDB
 Tools: Git · GitHub · Docker · Figma · VS Code  
-Methodologies: Agile · POP (Process-Oriented Programming)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhelgodt&show_icons=true&theme=tokyonight" height="180"/>
