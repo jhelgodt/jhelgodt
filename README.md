@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Joakim Helgodt</h1>
 
 <p align="center">
-  <img src="assets/Joakim-Code-Caster.png" alt="Joakim Code Caster" width="200"/>
+  <img src="Joakim-Code-Caster.png" alt="Joakim Code Caster" width="200"/>
 </p>
 
 <p align="center">
