@@ -1,54 +1,74 @@
-<h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 3rem;">Joakim Helgodt</h1>
-
 <p align="center">
-  <img src="profile-photo.png" alt="Joakim Helgodt Profile Photo" width="150" style="border: 2px solid #4CAF50;"/>
+  <img src="name.svg" alt="Joakim Helgodt" width="300"/>
 </p>
 
 <p align="center">
-  🧑‍💻 Fullstack Developer | 🚀 Tech Enthusiast | 🎯 Former SaaS Sales Executive turned Coder
+  <img src="role.png" alt="Fullstack Developer" width="200"/>
+</p>
+
+<p align="center">
+  <img src="profil.png" alt="Joakim Helgodt Profile Photo" width="150" style="border-radius: 50%; border: 2px solid #4CAF50;"/>
+</p>
+
+<p align="center">
+  🧑‍💻 Fullstack Developer | 🎮 Magic Player | ✨ Anime Fan
 </p>
 
 ---
 
 ### 🌟 About Me
 
-Hi, I'm Joakim Helgodt, a passionate Fullstack Developer with a knack for building modern, scalable web applications. I transitioned from SaaS sales to coding, and now I enjoy crafting solutions that make a difference. When I'm not coding, you can find me playing Magic: The Gathering or exploring new tech trends.
+Hi, I'm Joakim — a fullstack developer from Stockholm, Sweden. I love working on modern, full-featured web apps, whether it's backend logic, frontend design, or database structure. I enjoy collaborating in teams and building clean, useful software that actually solves problems.
+
+When I’m not coding, you’ll find me playing **Magic: The Gathering** with friends or watching anime (Attack on Titan is a favorite!).
 
 ---
 
-### 🔭 Current Projects
+### 🚧 Current Projects
 
-- 🚀 Building [my portfolio website](https://joakimhelgodt.com) with Angular & SCSS
-- 🃏 Magic the Gathering Deck Builder
+#### 🔗 [My Portfolio Website](https://joakimhelgodt.com)
+
+A clean, responsive portfolio built with Angular & SCSS — showcasing my work, skills, and personal style.  
+It's hosted on GitHub Pages and uses GitHub Actions for automatic deployment.
+
+#### 🃏 [Magic Deckbuilder](https://jhelgodt.github.io/Magic-Project)
+
+A Magic the Gathering deckbuilder app built with Angular and Node.js.  
+Includes:
+
+- Google OAuth login
+- Scryfall API integration
+- Card browsing, filtering, and deck creation
+- A UI inspired by Magic's own visual style
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack
 
-**Frontend:** Angular · React · TypeScript  
-**Backend:** PHP · Laravel · MySQL · Node.js · MongoDB  
-**Tools:** Git · GitHub · Docker · Figma · VS Code
+**Frontend:** Angular · SCSS · TypeScript  
+**Backend:** Node.js · Express · MongoDB · PHP · Laravel  
+**Tools:** Git · GitHub · Figma · VS Code · Docker
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhelgodt&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhelgodt&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
----
-
-### 🎨 Featured Asset
-
 <p align="center">
-  <img src="Joakim-Code-Caster.png" alt="Joakim Code Caster" width="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jhelgodt&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 🧙 Code & Connect
+
+<p align="center">
+  <img src="Joakim-Code-Caster.png" alt="Joakim Code Caster" width="300"/>
+</p>
 
 <p align="center">
   <a href="mailto:joakim.helgodt@gmail.com">
