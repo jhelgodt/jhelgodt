@@ -1,19 +1,22 @@
 <p align="center">
   <img src="name.svg" alt="Joakim Helgodt" width="240"/>
-  <img src="role.svg" alt="Fullstack Developer" width="160"/>
-  <img src="profile.jpg" alt="Joakim Helgodt Profile Photo" width="100" style="border-radius: 50%; border: 2px solid #6c63ff; vertical-align: middle; margin-left: 10px;"/>
+</p>
+
+<p align="center">
+  <img src="role.svg" alt="Fullstack Developer" width="200"/>
 </p>
 
 <p align="center">
   🧑‍💻 Fullstack Developer &nbsp;|&nbsp; 🎮 Magic Player &nbsp;|&nbsp; ✨ Anime Fan
 </p>
+
 ---
 
 ### 🌟 About Me
 
 Hi, I'm Joakim — a fullstack developer from Stockholm, Sweden. I love working on modern, full-featured web apps, whether it's backend logic, frontend design, or database structure. I enjoy collaborating in teams and building clean, useful software that actually solves problems.
 
-When I’m not coding, you’ll find me playing **Magic: The Gathering** with friends or watching anime (Attack on Titan is a favorite!).
+When I’m not coding, you’ll find me playing **Magic: The Gathering** with friends or watching anime (_Attack on Titan_ is a favorite!).
 
 ---
 
@@ -49,10 +52,6 @@ Includes:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhelgodt&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhelgodt&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jhelgodt&theme=tokyonight" height="180"/>
 </p>
 
 ---
