@@ -1,17 +1,15 @@
 <p align="center">
-  <img src="name.svg" alt="Joakim Helgodt" width="300"/>
+  <table>
+    <tr>
+      <td><img src="name.svg" alt="Joakim Helgodt" width="280"/></td>
+      <td><img src="role.png" alt="Fullstack Developer" width="180"/></td>
+      <td><img src="profile.png" alt="Joakim Helgodt Profile Photo" width="120" style="border-radius: 50%; border: 2px solid #4CAF50;"/></td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
-  <img src="role.png" alt="Fullstack Developer" width="200"/>
-</p>
-
-<p align="center">
-  <img src="profil.png" alt="Joakim Helgodt Profile Photo" width="150" style="border-radius: 50%; border: 2px solid #4CAF50;"/>
-</p>
-
-<p align="center">
-  🧑‍💻 Fullstack Developer | 🎮 Magic Player | ✨ Anime Fan
+  🧑‍💻 Fullstack Developer &nbsp;|&nbsp; 🎮 Magic Player &nbsp;|&nbsp; ✨ Anime Fan
 </p>
 
 ---
