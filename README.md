@@ -13,6 +13,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/joakim-helgodt">Connect on LinkedIn</a> • <a href="https://joakimhelgodt.com">Visit Portfolio</a>
 </p>
+
 ---
 
 ### 👋 Welcome!
@@ -81,6 +82,10 @@ Built with Angular & Node.js — includes Scryfall API integration, Google Auth,
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhelgodt&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhelgodt&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jhelgodt&theme=tokyonight" height="180"/>
 </p>
 
 ### 🧙 Code & Connect
