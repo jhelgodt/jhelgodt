@@ -18,7 +18,7 @@
 
 ### 👋 Welcome!
 
-Hi, I'm Joakim — a fullstack developer with a background in SaaS sales and a strong focus on solving real problems through clean, modern code.
+Hi, I'm Joakim — a fullstack developer with a background in SaaS sales and a focus on solving real problems.
 
 My previous work in B2B sales taught me how to understand user needs and turn feedback into product improvements. That experience now helps me build better digital solutions as a developer.
 
@@ -75,6 +75,7 @@ Built with Angular & Node.js — includes Scryfall API integration, Google Auth,
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhelgodt/jhelgodt/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/jhelgodt/jhelgodt/output/github-snake.svg" />
 </picture>
+
 ---
 
 ### 📊 GitHub Stats
