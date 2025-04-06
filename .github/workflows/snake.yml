@@ -1,0 +1,29 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # körs dagligen kl 00:00 UTC
+  workflow_dispatch: # gör det också möjligt att köra manuellt
+
+jobs:
+  build:
+    name: generate-snake
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: jhelgodt
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg
+
+      - name: Push generated files
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: dist
