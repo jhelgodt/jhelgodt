@@ -69,6 +69,15 @@ Built with Angular & Node.js — includes Scryfall API integration, Google Auth,
 ![Static Badge](https://img.shields.io/badge/Docker-blue)
 ![Static Badge](https://img.shields.io/badge/Herd-red)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-grey" />
+  <img src="https://img.shields.io/badge/GitHub-8A2BE2" />
+  <img src="https://img.shields.io/badge/GitLab-F35438" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-grey" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white" />
+</p>
+
 ---
 
 ### 🐍 GitHub Contribution Snake
