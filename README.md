@@ -34,13 +34,28 @@ I’m currently looking for a internship between **November 3, 2025 – April 5,
 
 ### 🧠 Currently Working On
 
-#### 🔗 [My Portfolio Website](https://joakimhelgodt.com)
+#### 🎨 My Portfolio Website
 
-Angular + SCSS, hosted with GitHub Pages & deployed via GitHub Actions.
+🌐 **Live:** [joakimhelgodt.com](https://joakimhelgodt.com)  
+📂 **Repo:** [github.com/jhelgodt/Portfolio2](https://github.com/jhelgodt/Portfolio2)
 
-#### 🃏 [Magic Deckbuilder](https://jhelgodt.github.io/Magic-Project)
+> A clean, responsive portfolio built with **Angular** and **SCSS**.  
+> Hosted on **GitHub Pages** and deployed via **GitHub Actions**.
 
-Built with Angular & Node.js — includes Scryfall API integration, Google Auth, and deck management.
+---
+
+#### 🃏 Magic Deckbuilder
+
+🧪 **Live:** [Magic-Project](https://jhelgodt.github.io/Magic-Project)  
+📂 **Repo:** [github.com/jhelgodt/Magic-Project](https://github.com/jhelgodt/Magic-Project)
+
+> A deckbuilder app for **Magic: The Gathering**, built with **Angular** and **Node.js**.  
+> Features include:
+>
+> - 🧙‍♂️ Scryfall API integration
+> - 🔐 Google OAuth login
+> - 📁 Deck creation and management
+> - 🎨 Custom UI styled for the Magic universe
 
 ---
 
